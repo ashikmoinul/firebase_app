@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944006234060",
+    "project_id": "ashikmoinul150-firstproject",
+    "storage_bucket": "ashikmoinul150-firstproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944006234060:android:3b4810273da87c13096769",
+        "android_client_info": {
+          "package_name": "com.firebaseapp.ash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGS43gsWZhPnGyqKNwqfeNfd1cOXih3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
